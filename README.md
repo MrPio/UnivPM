@@ -1,4 +1,4 @@
-# UnivPM
+<h1> <img src="https://camo.githubusercontent.com/14e50e63a8572f848bbd279a4b7bda4404b7507790e6dfdf26f0b2b1e096d6d6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30632f426c656e6465725f6c6f676f5f6e6f5f746578742e7376672f37363870782d426c656e6465725f6c6f676f5f6e6f5f746578742e7376672e706e67" width="45rem"/>  UnivPM </h1> 
 The results of my first 2-week Blender journey. Most of these models are heavily inspired by the props lying around my university and many textures were made this way. The purpose of this work is to implement a Exit8-like game in Unreal Engine, but I'll leave this for a future work, as it's not as straightforward as I expected.
 
 ### ➡️ Download available on my [cgtrader page](https://www.cgtrader.com/designers/valeriomorelli50).
